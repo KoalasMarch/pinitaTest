@@ -10,9 +10,9 @@
 #
 
 one:
-  email: 
-  password: MyString
+  email: "minney@mail.com"
+  password: 123456789
 
 two:
-  email: 
-  password: MyString
+  email: "mickey@mail.com"
+  password: 123456789
